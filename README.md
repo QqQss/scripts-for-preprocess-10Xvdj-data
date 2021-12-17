@@ -10,5 +10,5 @@ In a few cases, CD4+ and CD8+ T cells shared the same clonotype. To reduce noise
 
 
 **Citation:**
-Pan-cancer single-cell landscape of tumor-infiltrating T cells
+Pan-cancer single-cell landscape of tumor-infiltrating T cells.
 Science, 374 (6574), abe6474. DOI: 10.1126/science.abe6474
